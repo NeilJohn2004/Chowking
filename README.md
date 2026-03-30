@@ -1,0 +1,1 @@
+ChowkingMobileDTR is a mobile-based Daily Time Record (DTR) solution designed to modernize staff attendance tracking. By replacing manual logs with a QR-based scanning system, it ensures a fast, touchless, and accurate way for team members to manage their shifts.
